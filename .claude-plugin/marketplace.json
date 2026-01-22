@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "common-skills",
+  "version": "0.0.1",
+  "description": "Common skills, muc-recommend ect.",
+  "owner": {
+    "name": "hero",
+    "email": "test@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "muc-recommend",
+      "description": "muc recommend",
+      "version": "0.0.1",
+      "source": "./skills/muc-recommend",
+      "category": "development"
+    }
+  ]
+}
