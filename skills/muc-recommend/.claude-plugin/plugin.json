@@ -1,9 +1,1 @@
-{
-  "name": "muc-recommend",
-  "description": "muc recommend",
-  "version": "0.0.1",
-  "author": {
-    "name": "hero",
-    "email": "test@gmail.com"
-  }
-}
+{"name": "muc-recommend", "description": "群推荐命令处理工具，用于处理 vmtool 群推荐命令（取消/增加推荐）", "version": "0.0.1", "author": {"name": "hero", "email": "test@gmail.com"}}
