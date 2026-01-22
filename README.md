@@ -21,7 +21,7 @@ A collection of useful Claude Code skills for common development tasks.
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/common-skills.git
+git clone https://github.com/xianhuameng/common-skills.git
 cd common-skills
 ```
 
