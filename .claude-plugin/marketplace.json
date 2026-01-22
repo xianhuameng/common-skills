@@ -12,7 +12,7 @@
       "name": "muc-recommend",
       "description": "muc recommend",
       "version": "0.0.1",
-      "source": "./skills/muc-recommend",
+      "source": "../skills/muc-recommend",
       "category": "development"
     }
   ]
