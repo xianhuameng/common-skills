@@ -30,4 +30,4 @@ https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples
 
 ## License
 
-MIT License
+common-skills is licensed under Apache License v2.0.
