@@ -1,0 +1,9 @@
+{
+  "name": "muc-recommend",
+  "description": "muc recommend",
+  "version": "0.0.1",
+  "author": {
+    "name": "hero",
+    "email": "test@gmail.com"
+  }
+}
