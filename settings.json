@@ -1,0 +1,14 @@
+{
+  "env": {
+    "ANTHROPIC_AUTH_TOKEN": "111111111111111111111xxxxxxxxxxx.LACeqcdfvqnpvpE0",
+    "ANTHROPIC_BASE_URL": "https://open.bigmodel.cn/api/anthropic",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "glm-4.7",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "glm-4.7",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "glm-4.7",
+    "ANTHROPIC_MODEL": "glm-4.7"
+  },
+  "language": "简体中文",
+  "permissions": {
+    "defaultMode": "bypassPermissions"
+  }
+}
