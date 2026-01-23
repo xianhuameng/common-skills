@@ -17,6 +17,23 @@ A collection of useful Claude Code skills for common development tasks.
 - 批量生成群推荐命令
 - 处理群推荐相关的 vmtool 命令
 
+### project-select
+
+工作区项目导航工具，用于在多个项目之间快速切换。
+
+**功能：**
+- 列出工作区中所有项目（按字母顺序排序）
+- 快速导航到指定项目目录
+
+**使用场景：**
+- 在包含多个子项目的工作区中切换项目
+- 快速定位并进入目标项目目录
+
+**工作流程：**
+1. 导航到工作区目录
+2. 列出所有可用项目
+3. 进入用户指定的项目目录
+
 ## Installation
 
 1. Clone this repository:
